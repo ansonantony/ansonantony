@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ... REACT,PYTHON
-- 📫 How to reach me: ... ansonantony89@gmail.com
+
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning REACT,PYTHON
+- 📫 How to reach me: ansonantony89@gmail.com
