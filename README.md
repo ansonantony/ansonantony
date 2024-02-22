@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning REACT,PYTHON
+- 🌱 I’m currently learning REACT,PYTHON,NEXT.JS
 - 📫 How to reach me: ansonantony89@gmail.com
