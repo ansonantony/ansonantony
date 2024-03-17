@@ -19,4 +19,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ansonantony89@gmail.com
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![](https://visitcount.itsvg.in/api?id=ansonantony&label=Profile%20Views&icon=8&pretty=false)](https://visitcount.itsvg.in)
