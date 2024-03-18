@@ -21,8 +21,8 @@ Welcome to my GitHub profile!
 ## About Me
 
 - 💻 I love coding and building things.
-- 🌱 Currently learning [What You're Learning].
-- 🎯 Working on [What You're Working On].
+- 🌱 Currently learning Data Science.
+- 🎯 Working on JusticeVault.
 
 ## Get in Touch
 
