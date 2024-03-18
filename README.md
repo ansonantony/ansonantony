@@ -40,9 +40,4 @@ Let's connect and collaborate! 😊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansonantony&layout=donut&theme=radical&show_icons=true)](https://github.com/ansonantony/github-readme-stats)
 
-
-
-
-
-
 [![](https://visitcount.itsvg.in/api?id=ansonantony&label=Profile%20Views&icon=8&pretty=false)](https://visitcount.itsvg.in)
