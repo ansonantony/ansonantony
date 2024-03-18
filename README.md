@@ -15,8 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning REACT,PYTHON,NEXT.JS
-- 📫 How to reach me: ansonantony89@gmail.com
+I'm Anson Antony, a Btech CSE student passionate about Web Technolgies and Python. \
+Welcome to my GitHub profile!
+
+## About Me
+
+- 💻 I love coding and building things.
+- 🌱 Currently learning [What You're Learning].
+- 🎯 Working on [What You're Working On].
+
+## Get in Touch
+
+- 📧 Email: ansonantony89@gmail.com
+- 🔗 LinkedIn: [ansonantony-](https://www.linkedin.com/in/ansonantony-/)
+
+Let's connect and collaborate! 😊
 
 
 
