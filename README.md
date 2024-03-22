@@ -22,7 +22,7 @@ Welcome to my GitHub profile!
 
 - 💻 I love coding and building things.
 - 🌱 Currently learning Data Science.
-- 🎯 Working on JusticeVault.
+- 🎯 Working on just trying to be better.
 
 ## Get in Touch
 
