@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 - 🎯 Working on just trying to be better.
 
  ## Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,supabase,express,nodejs,mysql,bootstrap,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,supabase,express,nodejs,mysql,bootstrap,vercel)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py,java,c)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ps,figma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ipfs,solidity)](https://skillicons.dev)
