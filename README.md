@@ -52,3 +52,5 @@ Let's connect and collaborate! 😊
 
 
 [![](https://visitcount.itsvg.in/api?id=ansonantony&label=Profile%20Views&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ansonantony89)](https://leetcode.com/ansonantony89)
